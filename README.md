@@ -1,2 +1,2 @@
 # reloj_binario
-un pequeño reñoj binario realizado con python y qt
+un pequeño reloj binario realizado con python y qt
