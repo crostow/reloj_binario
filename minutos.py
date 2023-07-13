@@ -8,10 +8,7 @@ def min (self, m):
                "background-color: rgb(240, 0, 0);\n"
                "border-radius: 25;\n"
                "")
-    # l12= l12
-    # l13= l13
-    # l14=l14
-    # l15=l15
+    
     if int(m[0]) == 0:
         self.ui.l12.setStyleSheet(apagar)
         self.ui.l13.setStyleSheet(apagar)
